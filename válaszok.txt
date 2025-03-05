@@ -1,0 +1,4 @@
+9.git status
+10.ennek segítségével lehet látnia git commitokat
+11.github:platform erre csináljuk például a fájlokat 
+git:ezzel lehet úgymond programozni
